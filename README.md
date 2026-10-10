@@ -1,3 +1,4 @@
+![CI](https://github.com/niharikadock/cicd-lab/actions/workflows/ci.yml/badge.svg)
 # Unit 2 — CI/CD Pipeline and DevOps Automation
 
 Everything you need for today's session. Work through it in this order.
